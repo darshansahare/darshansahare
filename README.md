@@ -2,20 +2,21 @@
 <img align="right" src="assets/meme.gif" width="290" alt="cat meme" />
 <img src="assets/intro.svg" width="470" alt="hey, i'm darshan. final-year cse student, building agents, learning dsa" />
 <br>
-i like building things that actually run. mostly python and react, lately a lot of agentic stuff and security tooling.
+i like building things that actually run. Mostly python and react, lately a lot of agentic stuff and security tooling.
  
-final year at GHRCEM, nagpur. currently learning c++ and dsa, and getting into competitive programming (slowly, painfully).
- 
-[github](https://github.com/darshansahare) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/darshansahare/) &nbsp;·&nbsp; [blog](https://darshansahare.hashnode.dev)
+final year at GHRCEM, nagpur. Currently learning c++ and dsa, and getting into competitive programming (slowly, painfully).
+
+let's connect: <br>
+[github](https://github.com/darshansahare) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/darshansahare/) &nbsp;·&nbsp; [discord](https://discord.com/users/1299614021946703882)
  
 <br clear="all">
 
 ### Stuff i've built
  
-**ZeroDay** — red-team and blue-team LLMs that reproduce a vulnerability, then patch it and check the patch actually works. made for the Nebius × NVIDIA hackathon.
+**ZeroDay** — red-team and blue-team LLMs that reproduce a vulnerability, then patch it and check the patch actually works. Made for the Nebius × NVIDIA hackathon.
 <br><sub>python · fastapi · react</sub>
  
-**NEXUS** — a personal productivity agent on MCP. gemini up front, llama on groq as backup, with whatsapp pings, undo, and a human-in-the-loop step before it does anything risky.
+**NEXUS** — a personal productivity agent on MCP. emini up front, llama on groq as backup, with whatsapp reminders, undo, and a human-in-the-loop step before it does anything risky.
 <br><sub>fastmcp · sqlite · streamlit</sub>
  
 **DevInsights** — paste a github repo, get charts and a pdf report.
@@ -23,7 +24,7 @@ final year at GHRCEM, nagpur. currently learning c++ and dsa, and getting into c
 
 ### Open-source
  
-merged PRs in **PetSathi** and **Pinfold**. i also review other people's PRs, which turns out to be half the fun.
+merged PRs in **PetSathi** and **Pinfold**. I also review other people's PRs, which turns out to be half the fun.
  
 ### Stack
  
