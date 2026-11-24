@@ -15,7 +15,7 @@ let's connect: <br>
 **ZeroDay** — red-team and blue-team LLMs that reproduce a vulnerability, then patch it and check the patch actually works. Made for the Nebius × NVIDIA hackathon.
 <br><sub>python · fastapi · react</sub>
  
-**NEXUS** — a personal productivity agent on MCP. emini up front, llama on groq as backup, with whatsapp reminders, undo, and a human-in-the-loop step before it does anything risky.
+**NEXUS** — a personal productivity agent on MCP. Gemini up front, llama on groq as backup, with whatsapp reminders, undo, and a human-in-the-loop step before it does anything risky.
 <br><sub>fastmcp · sqlite · streamlit</sub>
  
 **DevInsights** — paste a github repo, get charts and a pdf report.
