@@ -8,8 +8,7 @@ final year at GHRCEM, nagpur. Currently learning c++ and dsa, and getting into c
 
 let's connect: <br>
 [github](https://github.com/darshansahare) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/darshansahare/) &nbsp;·&nbsp; [discord](https://discord.com/users/1299614021946703882)
- 
-<br clear="all">
+
 
 ### Stuff i've built
  
